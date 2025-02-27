@@ -9,7 +9,7 @@ function Footer() {
         <p className="text-green-300 opacity-70">root@hacknet:~# exit | © {currentYear} URL Unshortener</p>
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com"
+            href="https://github.com/imrushikesh77"
             target="_blank"
             rel="noopener noreferrer"
             className="text-green-400 hover:text-green-500 transition-colors"
